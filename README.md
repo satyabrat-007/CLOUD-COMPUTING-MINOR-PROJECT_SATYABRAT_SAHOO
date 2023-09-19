@@ -9,22 +9,18 @@ This project is a demonstration of hosting a website using cloud platform. It ex
 - Google Drive,DriveToWeb
 - GitHub for version control
 ## Usage
-1. Choose one of the hosting platforms:
-   - [Google Drive](https://www.drv.tw/)
+1. Choose the hosting platforms:
+   - [Drive To Web](https://www.drv.tw/)
 2. Access the hosted website.
 3. Explore the project and learn about cloud computing.
 ## Acknowledgments
-- Thanks to [Mr. Mohit Ojha] for their guidance.
-- Inspiration from [InternsElite].
-## Screenshots
-![Screenshot 2023-09-19 120600](https://github.com/satyabrat-007/CLOUD-COMPUTING-MINOR-PROJECT_SATYABRAT_SAHOO/assets/145275790/62457a2a-a44c-4142-a2e0-4e66774a75bb)
-## Project Link
-You can access the hosted project using the following link: https://bvlia27egcjbczm9xzzruq.on.drv.tw/Satyabrat.com/
+- Thanks to Mr. Mohit Ojha for their guidance.
+- Inspiration from InternsElite.
 ## What I Learned About Cloud Computing
 
 Through this project, I gained valuable insights into the world of cloud computing. Some of the key lessons and takeaways include:
 
-1. *Scalability*: I learned how cloud platforms like Google Drive, Heroku, and 000webhost offer scalable solutions for hosting websites. This scalability is essential for handling varying levels of traffic.
+1. *Scalability*: I learned how cloud platforms like Google Drive offer scalable solutions for hosting websites. This scalability is essential for handling varying levels of traffic.
 
 2. *Cost Efficiency*: Cloud computing allows for cost-effective hosting solutions. I discovered how to take advantage of free hosting options and cost-effective paid plans, depending on project requirements.
 
@@ -36,8 +32,10 @@ Through this project, I gained valuable insights into the world of cloud computi
 
 6. *Security*: Cloud providers offer security features. I explored basic security settings and measures to protect the hosted website and data.
 
-7. *Automation*: Some cloud platforms offer automation features. I experimented with automated deployment and continuous integration techniques for a smoother development workflow.
-
-8. *Monitoring and Analytics*: Cloud services often provide monitoring and analytics tools. I explored how to gather insights into website traffic and performance.
+7. *Monitoring and Analytics*: Cloud services often provide monitoring and analytics tools. I explored how to gather insights into website traffic and performance.
 
 Overall, this project was an excellent hands-on experience that enhanced my understanding of cloud computing's practical applications and benefits.
+## Screenshots
+![Screenshot 2023-09-19 120600](https://github.com/satyabrat-007/CLOUD-COMPUTING-MINOR-PROJECT_SATYABRAT_SAHOO/assets/145275790/62457a2a-a44c-4142-a2e0-4e66774a75bb)
+## Project Link
+You can access the hosted project using the following link: https://bvlia27egcjbczm9xzzruq.on.drv.tw/Satyabrat.com/
